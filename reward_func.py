@@ -1,7 +1,7 @@
 def reward_function(params):
     import math
     
-    DIRECTION_THRESHOLD = 10 
+    DIRECTION_THRESHOLD = 7.5 
     STEERING_THRESHOLD = 12.5
     MIN_REWARD = -1.0
     MAX_REWARD = 1.0
